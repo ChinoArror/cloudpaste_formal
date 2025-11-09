@@ -44,7 +44,7 @@ const routes = [
     name: "Home",
     component: HomeView,
     meta: {
-      title: "CloudPaste - 在线剪贴板",
+      title: "CloudPaste",
       originalPage: "home",
     },
   },
